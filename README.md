@@ -142,8 +142,3 @@ Tabla de referencia rápida para la administración diaria.
 
 ### 💡 Evidencia Prácticas
 
-Figura 5: Configuración de persistencia en fstab.
-
-Figura 6: Estado inicial de 2.0GB antes de la expansión.
-
-Figura 7: Resultado final: Volumen expandido a 3.9GB.
