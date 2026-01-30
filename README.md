@@ -140,5 +140,18 @@ Tabla de referencia rápida para la administración diaria.
 
 ---
 
-### 💡 Evidencia Prácticas
+### 📍 Evidencia de Práctica
 
+![VirtualBox](01_configuracion_virtualbox.png)
+
+![lsblk](02_verificacion_lsblk.png)
+
+![LVM](03_creacion_lvm.png)
+
+![Montaje](04_formato_y_montaje.png)
+
+![fstab](05_edicion_fstab.png)
+
+![Pre-extensión](06_verificacion_pre_extension.png)
+
+![Final](07_extension_final_lvm.png)
