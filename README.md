@@ -141,4 +141,16 @@ Tabla de referencia rápida para la administración diaria.
 ---
 
 ### 💡 Evidencia Prácticas
+Figura 1: Configuración de hardware inicial en VirtualBox.
 
+Figura 2: Reconocimiento del disco sdb de 10GB.
+
+Figura 3: Creación de PV, VG y LV.
+
+Figura 4: Formateo EXT4 y montaje en /mnt/proyectos.
+
+Figura 5: Configuración de persistencia en fstab.
+
+Figura 6: Estado inicial de 2.0GB antes de la expansión.
+
+Figura 7: Resultado final: Volumen expandido a 3.9GB.
