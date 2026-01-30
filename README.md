@@ -137,3 +137,8 @@ Tabla de referencia rápida para la administración diaria.
 *   **Nomenclatura:** Use nombres descriptivos para los VGs y LVs (ej: `vg_mysql`, `lv_logs`, `lv_data`) para facilitar la administración.
 *   **Monitoreo:** Vigile siempre la columna `VFree` en el comando `vgs`. Si el VG se llena, no podrá extender ningún volumen lógico hasta que añada un nuevo disco físico al grupo (`vgextend`).
 *   **Backups:** Aunque LVM es seguro, redimensionar particiones conlleva riesgos inherentes. Siempre tenga copias de seguridad antes de operaciones críticas.
+
+---
+
+### 💡 Evidencia Prácticas
+
